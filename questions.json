@@ -1,0 +1,57 @@
+[
+    {
+        "questionNo": "Q1",
+        "question": "How many fingers are holding up in total?<br><img width='50%' src='./images/2.jpg'>",
+        "options": [
+            "8",
+            "7",
+            "6",
+            "9"
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q2",
+        "question": "Find the total number of caps by adding red caps and blue caps.<br><img width='50%' src='./images/3.jpg'>",
+        "options": [
+            "6",
+            "7",
+            "9",
+            "8"
+        ],
+        "correct": 2
+    },
+    {
+        "questionNo": "Q3",
+        "question": "How many fingers are holding up altogether?<br><img width='50%' src='./images/4.jpg'>",
+       "options": [
+            "9",
+            "6",
+            "7",
+            "8"
+        ],
+        "correct": 2
+    },
+    {
+        "questionNo": "Q4",
+        "question": "Find the total number of balloons by adding the balloons together.<br><img width='50%' src='./images/5.jpg'>",
+        "options": [
+            "3",
+            "4",
+            "5",
+            "6"
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q5",
+        "question": "Add the numbers to find the total:<BR>7 + 2 = ?",
+        "options": [
+            "3",
+            "4",
+            "9",
+            "8"
+        ],
+        "correct": 2
+    }
+]
